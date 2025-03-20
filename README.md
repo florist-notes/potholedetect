@@ -47,4 +47,4 @@ This project aims to develop a mobile application that uses AI to detect pothole
 
     + Design a simple UI for capturing images, displaying results, and showing a map with pothole locations.
 
-## [ [DATASET](./notes/dataset.MD) ]
+## [ [DATASET](./notes/dataset.MD), [TRAIN](./notes/train.MD) ]
