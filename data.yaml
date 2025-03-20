@@ -1,6 +1,6 @@
-path: /mnt/chromeos/MyFiles/github/base/potholedetect
-train: data/images/train
-val: data/images/val
-test: data/images/test  # Optional
+path: C:\Users\Amartya Saikia\Desktop\Github_REPO\potholedetect
+train: data\images\train
+val: data\images\val
+test: data\images\test  # Optional
 nc: 1  # Number of classes (only "pothole")
 names: ['pothole']

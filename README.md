@@ -47,4 +47,10 @@ This project aims to develop a mobile application that uses AI to detect pothole
 
     + Design a simple UI for capturing images, displaying results, and showing a map with pothole locations.
 
-## [ [DATASET](./notes/dataset.MD), [TRAIN](./notes/train.MD) ]
+## [ [DATASET](./notes/dataset.MD) : [./data.yaml](./data.yaml), [TRAIN](./notes/train.MD), [best.pt](./best.pt) is the trained model ]
+
++ [./train.py](./train.py) - [./evaluate.py](./evaluate.py) - [./inference.py](./inference.py) - [./infer_confidence.py](./infer_confidence.py)
+
+<img src="test/poth2.jpg" width=48%> <img src="test/pot.jpg" width=48%>
+
+ <img src="test/img.PNG" width=44%>  <img src="test/pott.png" width=52%>
